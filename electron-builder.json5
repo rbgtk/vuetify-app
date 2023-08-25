@@ -12,6 +12,14 @@
     "dist-electron",
     "dist"
   ],
+  "linux": {
+    "target": [
+      "AppImage",
+      "snap",
+      "deb"
+    ],
+    "category": 
+  },
   "mac": {
     "artifactName": "${productName}_${version}.${ext}",
     "target": [
