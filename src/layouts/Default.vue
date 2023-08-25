@@ -3,7 +3,7 @@
     <v-app-bar flat>
       <v-icon icon="mdi-circle-slice-6" />
 
-      Electron & Vuetify Essentials
+      Electron & Vuetify
     </v-app-bar>
 
     <v-main>
@@ -13,5 +13,5 @@
 </template>
 
 <script setup lang="ts">
-
+  // 
 </script>
